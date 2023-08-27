@@ -1,0 +1,137 @@
+{
+    "MPN": [
+        false,
+        "Si2144"
+    ],
+    "datasheet": [
+        false,
+        "https://www.skyworksinc.com/-/media/SkyWorks/SL/documents/public/data-shorts/Si2144-short.pdf"
+    ],
+    "description": [
+        false,
+        "TV Tuner"
+    ],
+    "entity": "355ad84f-4ae5-407b-bed8-8878a50fc89d",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Skyworks"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "bf97a7ab-a761-43a2-a53e-970f8b0d9149",
+    "pad_map": {
+        "04dc9f7b-7593-4d0f-9ee2-381ce7de49c7": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "823d33f9-971f-4342-98f2-f299fba67c55"
+        },
+        "270f7d47-0cc3-4e59-b944-b40c77668655": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "37be7e04-e1d5-410c-8b96-13c1b343a543"
+        },
+        "326a6b2d-2441-4e46-84c1-dddae0cdb5f1": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "810766cd-d572-4601-9937-2fc6b5b2dfd6"
+        },
+        "4710574f-b7a5-406b-8b6a-1ed41d5b69f5": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "37be7e04-e1d5-410c-8b96-13c1b343a543"
+        },
+        "4ade8306-5ef8-48e8-b662-b0d36094eba8": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "76c2024a-456e-43a2-9d39-2bdbe40c7e8f"
+        },
+        "57e23d86-b6e2-4ee8-822f-13fe65cd7f66": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "0f1a5cb9-92d3-47b5-81b4-bb9847bd5fcb"
+        },
+        "5c54a237-3a66-4b40-86de-4235d1916021": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "70ebe09a-ebce-48fc-87dc-226fb7085d6e"
+        },
+        "683ff60b-839f-4689-b14e-46b236ad99c1": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "c42f1c7a-9ea6-4d80-bfd7-99232f20c27a"
+        },
+        "775bc7d6-9f2b-4efb-8302-0f1be93115cb": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "0a23e344-7e82-4d6c-ab9b-ee29a4e9fda9"
+        },
+        "7837e85b-ab3f-4fdf-886f-ab8b1a9698fb": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "30df6e6f-3c2c-44f3-9743-bd2f652a5d7d"
+        },
+        "7d394e2e-30b9-4b88-99ea-3cf197dd398f": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "68e86992-2479-4833-9388-4a2acb5c3fe4"
+        },
+        "8aa1c99c-5983-429a-8dcc-4115389270f2": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "c003b2c2-dd2d-4c4f-a4b0-6ce77d58b9d1"
+        },
+        "92e8060a-35c7-408e-8180-bbf352259541": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "3f51dd5b-2934-4b7d-9a18-aa690ae48c52"
+        },
+        "9356dce9-d6b5-47b6-b7a7-c5faacc244fe": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "37be7e04-e1d5-410c-8b96-13c1b343a543"
+        },
+        "9a99a705-a7c6-445d-bd89-deed0d1cfb05": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "37be7e04-e1d5-410c-8b96-13c1b343a543"
+        },
+        "aa87cbc9-2cec-44ad-a226-88fd29035475": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "68e86992-2479-4833-9388-4a2acb5c3fe4"
+        },
+        "adc14d58-024d-4dfc-a1dd-55eb1484f7d9": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "e0c23f1d-9d83-4d8b-b1be-750911455c8a"
+        },
+        "bbd2409b-a61f-4486-8024-7be0c1682e37": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "37be7e04-e1d5-410c-8b96-13c1b343a543"
+        },
+        "c0fda924-8564-4893-bb87-c7519b837aa9": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "1132c37a-4efb-449b-8131-7539b10eb2e6"
+        },
+        "c3851c46-8739-42d1-9351-4d3414a046b6": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "aa7ec8c3-095d-41e5-aa08-13324474a769"
+        },
+        "d80eb8c7-7fb7-41c5-b1f8-f9b7519f6e79": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "68e86992-2479-4833-9388-4a2acb5c3fe4"
+        },
+        "da1cdd24-4c1f-4e98-adcd-617ebb5789c9": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "34f6d687-db3e-4cee-bda9-a54e0dab235d"
+        },
+        "deead86a-f9b0-4ff8-9368-48d5b561a112": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "a9c1098a-4d18-470a-b7b1-a5ce4aa80408"
+        },
+        "f6b0ecb7-7bff-4496-9d23-330444a81471": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "c9ce890a-716e-49d0-8308-fd379ec44346"
+        },
+        "fc008b10-6a64-4910-bc6a-2a5c18a49276": {
+            "gate": "1cf5ab41-ba56-41c5-8406-210bca140bf3",
+            "pin": "7d975a20-2628-4d16-a71d-06a8251cc837"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "rf",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "630ceeff-c13d-4c23-80c9-0d6e6b01b11c",
+    "value": [
+        false,
+        ""
+    ]
+}

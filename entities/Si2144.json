@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "1cf5ab41-ba56-41c5-8406-210bca140bf3": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "59515284-a140-4ecf-a7a3-5650c4b673d9"
+        }
+    },
+    "manufacturer": "Skyworks",
+    "name": "Si2144",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "355ad84f-4ae5-407b-bed8-8878a50fc89d"
+}
